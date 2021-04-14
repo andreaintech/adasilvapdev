@@ -2,7 +2,7 @@
 
 ![10](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
 
-![10](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
+![10](https://github.com/adasilvapdev/adasilvapdev/blob/main/gradient.jpg)
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://twitter.com/adasilvapdev" target="_blank">

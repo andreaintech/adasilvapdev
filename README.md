@@ -15,8 +15,8 @@
 
 <br />
 
-Hi, I'm [Andrea Da Silva](https://adasilvapdev.github.io/web/) ✌, I am a Web/Mobile App Developer. I was born in Moscow, Russia but my nationality is Brazilian.
-I currently live in Venezuela. 🇷🇺 🇧🇷 🇻🇪 😜
+Hi, I'm [Andrea Da Silva](https://adasilvapdev.github.io/web/) ✌, I am a Web/Mobile App Developer. I was born in Moscow, Russia 🇷🇺 but my nationality is Brazilian 🇧🇷
+I currently live in Venezuela 📍🇻🇪 😜
 
 I'm very comfortable working as a team with a high sense of responsibility and effectiveness. I am always ready to face new professional challenges. I have been in the industry since 2017 and working with React Native / Expo since 2020.
 
@@ -26,7 +26,7 @@ I'm very comfortable working as a team with a high sense of responsibility and e
 - 📫 How to reach me: [@adasilvapdev](https://twitter.com/adasilvapdev)
 - 📝 [Resume](https://adasilvapdev.github.io/curriculum/)
 
-**Languages and Tools:**  
+**Languages, Frameworks and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
@@ -39,12 +39,14 @@ I'm very comfortable working as a team with a high sense of responsibility and e
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=adasilvapdev&show_icons=true&theme=gotham" alt="Andrea Da Silva" />
 
+**Languages in which I can communicate:**  
+- Spanish
+- Portuguese
+- English
 
 
-
-
-
-<!-- - 🔭 I’m currently working on ....
+<!-- 
+- 🔭 I’m currently working on ....
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...

@@ -1,13 +1,13 @@
 ### Hola | Hello | Oi 👋
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://twitter.com/adasilvapdev">
+<a href="https://twitter.com/adasilvapdev" target="_blank">
   <img align="left" alt="Andrea Da Silva | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://linkedin.com/in/adasilvapdev/">
+<a href="https://linkedin.com/in/adasilvapdev/" target="_blank">
   <img align="left" alt="Andrea's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://discord.com/users/adasilvapdev#4563/">
+<a href="https://discord.com/users/adasilvapdev#4563/" target="_blank">
   <img align="left" alt="Andrea's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 
@@ -21,8 +21,8 @@ I'm very comfortable working as a team with a high sense of responsibility and e
 
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/adasilvapdev/adasilvapdev/main/coding.gif" width="500" height="320" />
   
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@adasilvapdev](https://twitter.com/adasilvapdev);
+- 💬 Ask me about anything, I am happy to help
+- 📫 How to reach me: [@adasilvapdev](https://twitter.com/adasilvapdev)
 - 📝 [Resume](https://adasilvapdev.github.io/curriculum/)
 
 **Languages and Tools:**  

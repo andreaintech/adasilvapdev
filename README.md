@@ -2,6 +2,8 @@
 
 <img align="center" alt="gradient" src="gradient.png" />
 
+![10](https://github.com/adasilvapdev/adasilvapdev/blob/main/gradient.png)
+
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://twitter.com/adasilvapdev" target="_blank">
   <img align="left" alt="Andrea Da Silva | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />

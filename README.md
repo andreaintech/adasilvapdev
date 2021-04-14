@@ -49,6 +49,25 @@ I'm very comfortable working as a team with a high sense of responsibility and e
   More stuff about me
 </summary>
 
+<table>
+<caption>Andrea Da Silva</caption>
+<thead>
+<tr>
+<th colspan="2">Quick Info</th>
+</tr>
+</thead>
+<tbody>
+<tr><th scope='row'>Name</th><td>Andrea Oxana Da Silva Pinto</td></tr>
+<tr><th scope='row'>Date of Birth</th><td><time datetime="1994-09-11 04:00">September 11, 1994</time></td></tr>
+<tr><th scope='row'>Country of Birth</th><td>Moscow, Russia</td></tr>
+<tr><th scope='row'>College Degree</th><td>B.S. in Computer Science</td></tr>
+<tr><th scope='row'>Alma Mater</th><td>University of Carabobo | Experimental Faculty of Sciences and Technology</td></tr>
+<tr><th scope='row'>Nationality</th><td>Brazilian</td></tr>
+<tr><th scope='row'>Occupation</th><td>Web & Mobile App Developer</td></tr>
+<tr><th scope='row'>Skills</th><td>HTML, CSS, JavaScript, Python, React Native, React.js</td></tr>
+</tbody>
+</table>
+
 ### Languages 🌐
 
 | Language      | Proficiency                                                               |

@@ -50,6 +50,26 @@ I'm very comfortable working as a team with a high sense of responsibility and e
 - Portuguese
 - English
 
+<summary>
+  More stuff about me
+</summary>
+
+### Languages 🌐
+
+| Language      | Proficiency                                                               |
+| ------------- | ------------------------------------------------------------------------- |
+| English (duh) | C2 ([EFSET certified](https://www.efset.org/cert/5P5Pp1))                 |
+| German        | B1 ([DSD Certificate](https://www.goethe.de/en/spr/kup/prf/prf/gb1.html)) |
+| Czech         | Native language                                                           |
+
+## What I'm currently learning 📚
+- Figma
+- UX
+- Node JS
+
+## What I'm currently reading 📚
+- Ikigai: The Japanese Secret to a Long and Happy Life | Héctor García
+- The TypeScript Handbook | Microsoft
 
 <!-- 
 - 🔭 I’m currently working on ....

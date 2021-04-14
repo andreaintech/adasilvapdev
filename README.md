@@ -1,7 +1,5 @@
 ### Hola | Hello | Oi 👋
 
-![10](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
-
 ![10](https://github.com/adasilvapdev/adasilvapdev/blob/main/gradient.jpg)
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
@@ -24,6 +22,8 @@ I currently live in Venezuela 📍🇻🇪 😜
 
 I'm very comfortable working as a team with a high sense of responsibility and effectiveness. I am always ready to face new professional challenges. I have been in the industry since 2017 and working with React Native / Expo since 2020.
 
+![10](https://github.com/adasilvapdev/adasilvapdev/blob/main/gradient.jpg)
+
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/adasilvapdev/adasilvapdev/main/coding.gif" width="500" height="320" />
   
 - 💬 Ask me about anything, I am happy to help
@@ -42,6 +42,8 @@ I'm very comfortable working as a team with a high sense of responsibility and e
 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=adasilvapdev&show_icons=true&theme=gotham" alt="Andrea Da Silva" />
+
+![10](https://github.com/adasilvapdev/adasilvapdev/blob/main/gradient.jpg)
 
 **Languages in which I can communicate:**  
 - Spanish

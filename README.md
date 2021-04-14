@@ -56,14 +56,15 @@ I'm very comfortable working as a team with a high sense of responsibility and e
 </tr>
 </thead>
 <tbody>
-<tr><th scope='row'>Name</th><td>Andrea Oxana Da Silva Pinto</td></tr>
+<tr><th scope='row'>Full Name</th><td>Andrea Oxana Da Silva Pinto</td></tr>
 <tr><th scope='row'>Date of Birth</th><td><time datetime="1994-09-11 04:00">September 11, 1994</time></td></tr>
 <tr><th scope='row'>Country of Birth</th><td>Moscow, Russia</td></tr>
+<tr><th scope='row'>Nationality</th><td>Brazilian</td></tr>
 <tr><th scope='row'>College Degree</th><td>B.S. in Computer Science</td></tr>
 <tr><th scope='row'>Alma Mater</th><td>University of Carabobo | Experimental Faculty of Sciences and Technology</td></tr>
-<tr><th scope='row'>Nationality</th><td>Brazilian</td></tr>
 <tr><th scope='row'>Occupation</th><td>Web & Mobile App Developer</td></tr>
 <tr><th scope='row'>Skills</th><td>HTML, CSS, JavaScript, Python, React Native, React.js</td></tr>
+<tr><th scope='row'>Stuff I've worked with</th><td>Python 3.8, Flask, VueJS 2, Laravel 5.8, Firebase, HTML, CSS, JavaScript, TypeScript, React Native, React.js, Java 8, PHP 5, Angular 6, Angular.js, SAPUI5, Vaadin 8, WordPress, CodeIgniter</td></tr>
 </tbody>
 </table>
 

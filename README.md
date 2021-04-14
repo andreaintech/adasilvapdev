@@ -4,7 +4,7 @@
 <a href="https://twitter.com/adasilvapdev">
   <img align="left" alt="Andrea Da Silva | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="www.linkedin.com">
+<a href="https://linkedin.com/in/adasilvapdev/">
   <img align="left" alt="Andrea's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://discord.com/users/adasilvapdev#4563/">

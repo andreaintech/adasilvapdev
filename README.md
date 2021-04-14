@@ -73,7 +73,7 @@ WordPress</td></tr>
 </tbody>
 </table>
 
-### Languages 🌐
+## Languages 🌐
 
 | Language      | Proficiency                                                               |
 | ------------- | ------------------------------------------------------------------------- |

@@ -45,11 +45,6 @@ I'm very comfortable working as a team with a high sense of responsibility and e
 
 ![10](https://github.com/adasilvapdev/adasilvapdev/blob/main/gradient.jpg)
 
-**Languages in which I can communicate:**  
-- Spanish
-- Portuguese
-- English
-
 <summary>
   More stuff about me
 </summary>
@@ -58,11 +53,11 @@ I'm very comfortable working as a team with a high sense of responsibility and e
 
 | Language      | Proficiency                                                               |
 | ------------- | ------------------------------------------------------------------------- |
-| English (duh) | C2 ([EFSET certified](https://www.efset.org/cert/5P5Pp1))                 |
-| German        | B1 ([DSD Certificate](https://www.goethe.de/en/spr/kup/prf/prf/gb1.html)) |
-| Czech         | Native language                                                           |
+| English       | B1                                                                        |
+| Portuguese    | B2                                                                        |
+| Spanish       | Native language                                                           |
 
-## What I'm currently learning 📚
+## What I'm currently learning 🤓
 - Figma
 - UX
 - Node JS

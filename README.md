@@ -45,10 +45,6 @@ I'm very comfortable working as a team with a high sense of responsibility and e
 
 ![10](https://github.com/adasilvapdev/adasilvapdev/blob/main/gradient.jpg)
 
-<summary>
-  More stuff about me
-</summary>
-
 <table>
 <thead>
 <tr>
@@ -72,6 +68,8 @@ Java 8, Spring Boot, Vaadin 8</br>
 Firebase</br>
 SAPUI5</br>
 WordPress</td></tr>
+<tr><th scope='row'>Interests</th><td>AI, Machine Learning, UI/UX, Marketing</td></tr>
+<tr><th scope='row'>Hobbies</th><td>Dance, Yoga, Travel</td></tr>
 </tbody>
 </table>
 

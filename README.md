@@ -15,7 +15,8 @@
 
 <br />
 
-Hi, I'm [Andrea Da Silva](https://adasilvapdev.github.io/web/) ✌, I am a Web/Mobile App Developer. I was born in Moscow, Russia but my nationality is Brazilian. I currently live in Venezuela.
+Hi, I'm [Andrea Da Silva](https://adasilvapdev.github.io/web/) ✌, I am a Web/Mobile App Developer. I was born in Moscow, Russia but my nationality is Brazilian.
+I currently live in Venezuela. 🇷🇺 🇧🇷 🇻🇪 😜
 
 I'm very comfortable working as a team with a high sense of responsibility and effectiveness. I am always ready to face new professional challenges. I have been in the industry since 2017 and working with React Native / Expo since 2020.
 

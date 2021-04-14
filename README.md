@@ -1,6 +1,6 @@
 ### Hola | Hello | Oi 👋
 
-<img align="right" alt="gradient" src="/gradient.png" />
+<img align="center" alt="gradient" src="gradient.png" />
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://twitter.com/adasilvapdev" target="_blank">

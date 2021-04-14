@@ -50,7 +50,6 @@ I'm very comfortable working as a team with a high sense of responsibility and e
 </summary>
 
 <table>
-<caption>Andrea Da Silva</caption>
 <thead>
 <tr>
 <th colspan="2">Quick Info</th>

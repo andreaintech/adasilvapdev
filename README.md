@@ -84,11 +84,11 @@ WordPress</td></tr>
 ## What I'm currently learning 🤓
 - Figma
 - UX
-- Node JS
+- TypeScript
 
 ## What I'm currently reading 📚
-- Ikigai: The Japanese Secret to a Long and Happy Life | Héctor García
 - The TypeScript Handbook | Microsoft
+- Ikigai: The Japanese Secret to a Long and Happy Life | Héctor García
 
 <!-- 
 - 🔭 I’m currently working on ....

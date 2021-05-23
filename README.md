@@ -118,6 +118,7 @@ WordPress</td></tr>
   <img align="left" alt="Andrea's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 
+
 ![10](https://github.com/adasilvapdev/adasilvapdev/blob/main/gradient.jpg)
 
 

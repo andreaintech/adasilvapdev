@@ -108,6 +108,15 @@ WordPress</td></tr>
 - 📫 How to reach me: [@adasilvapdev](mailto:adasilvapdev@gmail.com)
 - 📝 [Resume](https://adasilvapdev.github.io/resume/)
 
+<a href="https://twitter.com/adasilvapdev" target="_blank">
+  <img align="left" alt="Andrea Da Silva | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://linkedin.com/in/adasilvapdev/" target="_blank">
+  <img align="left" alt="Andrea's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://discord.com/users/adasilvapdev#4563/" target="_blank">
+  <img align="left" alt="Andrea's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
 
 ![10](https://github.com/adasilvapdev/adasilvapdev/blob/main/gradient.jpg)
 

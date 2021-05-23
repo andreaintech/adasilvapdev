@@ -73,6 +73,8 @@ WordPress</td></tr>
 </tbody>
 </table>
 
+![10](https://github.com/adasilvapdev/adasilvapdev/blob/main/gradient.jpg)
+
 ## Languages 🌐
 
 | Language      | Proficiency                                                               |

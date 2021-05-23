@@ -123,8 +123,8 @@ WordPress</td></tr>
 - 📫 Write me by email: [@adasilvapdev](mailto:adasilvapdev@gmail.com)
 - 📝 [Resume](https://adasilvapdev.github.io/resume/)
 
-<br />
-<br />
+\
+\
 ![10](https://github.com/adasilvapdev/adasilvapdev/blob/main/gradient.jpg)
 
 

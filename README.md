@@ -26,6 +26,7 @@ I'm very comfortable working as a team with a high sense of responsibility and e
   
   <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=adasilvapdev&show_icons=true&theme=gotham" alt="Andrea Da Silva" />
 
+
 **Languages, Frameworks and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -36,8 +37,7 @@ I'm very comfortable working as a team with a high sense of responsibility and e
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-
-<img align="center" alt="GIF" src="https://raw.githubusercontent.com/adasilvapdev/adasilvapdev/main/coding.gif" width="500" height="320" />
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/adasilvapdev/adasilvapdev/main/coding.gif" width="320" height="320" />
 
 ![10](https://github.com/adasilvapdev/adasilvapdev/blob/main/gradient.jpg)
 

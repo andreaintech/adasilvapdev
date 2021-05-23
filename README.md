@@ -124,7 +124,6 @@ WordPress</td></tr>
 - 📝 [Resume](https://adasilvapdev.github.io/resume/)
 
 \
-\
 ![10](https://github.com/adasilvapdev/adasilvapdev/blob/main/gradient.jpg)
 
 

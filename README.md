@@ -118,8 +118,8 @@ WordPress</td></tr>
 
 
 <br/>
-- 💬 Ask me about anything, I am happy to help
-- 📫 Write me by email: [@adasilvapdev](mailto:adasilvapdev@gmail.com)
+- 💬 Ask me about anything, I am happy to help<br/>
+- 📫 Write me by email: [@adasilvapdev](mailto:adasilvapdev@gmail.com)<br/>
 - 📝 [Resume](https://adasilvapdev.github.io/resume/)
 
 

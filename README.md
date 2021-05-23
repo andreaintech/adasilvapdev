@@ -23,7 +23,8 @@ I'm very comfortable working as a team with a high sense of responsibility and e
 
 ![10](https://github.com/adasilvapdev/adasilvapdev/blob/main/gradient.jpg)
 
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/adasilvapdev/adasilvapdev/main/coding.gif" width="500" height="320" />
+  
+  <p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=adasilvapdev&show_icons=true&theme=gotham" alt="Andrea Da Silva" />
   
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: [@adasilvapdev](https://twitter.com/adasilvapdev)
@@ -40,7 +41,7 @@ I'm very comfortable working as a team with a high sense of responsibility and e
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=adasilvapdev&show_icons=true&theme=gotham" alt="Andrea Da Silva" />
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/adasilvapdev/adasilvapdev/main/coding.gif" width="500" height="320" />
 
 ![10](https://github.com/adasilvapdev/adasilvapdev/blob/main/gradient.jpg)
 

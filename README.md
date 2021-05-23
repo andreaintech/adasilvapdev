@@ -110,6 +110,4 @@ WordPress</td></tr>
 ![10](https://github.com/adasilvapdev/adasilvapdev/blob/main/gradient.jpg)
 
 
-Updated and maintained with ❤️ by [@adasilvapdev](https://adasilvapdev.github.io/web/)
-
-*Last update: 23/05/2021*
+Updated and maintained with ❤️ by [@adasilvapdev](https://adasilvapdev.github.io/web/) | *Last update: 23/05/2021*

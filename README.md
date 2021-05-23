@@ -24,7 +24,7 @@ I'm very comfortable working as a team with a high sense of responsibility and e
 ![10](https://github.com/adasilvapdev/adasilvapdev/blob/main/gradient.jpg)
 
   
-  <p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=adasilvapdev&show_icons=true&theme=gotham" alt="Andrea Da Silva" />
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=adasilvapdev&show_icons=true&theme=gotham" alt="Andrea Da Silva" />
   
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: [@adasilvapdev](https://twitter.com/adasilvapdev)

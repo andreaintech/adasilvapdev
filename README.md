@@ -111,3 +111,5 @@ WordPress</td></tr>
 
 
 Updated and maintained with ❤️ by [@adasilvapdev](https://adasilvapdev.github.io/web/)
+
+*Last update: 23/05/2021*

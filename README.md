@@ -117,10 +117,10 @@ WordPress</td></tr>
 </a>
 
 
-<br/>
-- 💬 Ask me about anything, I am happy to help<br/>
-- 📫 Write me by email: [@adasilvapdev](mailto:adasilvapdev@gmail.com)<br/>
-- 📝 [Resume](https://adasilvapdev.github.io/resume/)<br/>
+<br />
+- 💬 Ask me about anything, I am happy to help<br />
+- 📫 Write me by email: [@adasilvapdev](mailto:adasilvapdev@gmail.com)<br />
+- 📝 [Resume](https://adasilvapdev.github.io/resume/)<br />
 
 
 ![10](https://github.com/adasilvapdev/adasilvapdev/blob/main/gradient.jpg)

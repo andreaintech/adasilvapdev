@@ -105,10 +105,6 @@ WordPress</td></tr>
 
 
 ## How to reach me 👯
-- 💬 Ask me about anything, I am happy to help
-- 📫 Write me by email: [@adasilvapdev](mailto:adasilvapdev@gmail.com)
-- 📝 [Resume](https://adasilvapdev.github.io/resume/)
-
 
 <a href="https://twitter.com/adasilvapdev" target="_blank">
   <img align="left" alt="Andrea Da Silva | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
@@ -120,6 +116,10 @@ WordPress</td></tr>
   <img align="left" alt="Andrea's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 
+
+- 💬 Ask me about anything, I am happy to help
+- 📫 Write me by email: [@adasilvapdev](mailto:adasilvapdev@gmail.com)
+- 📝 [Resume](https://adasilvapdev.github.io/resume/)
 
 
 ![10](https://github.com/adasilvapdev/adasilvapdev/blob/main/gradient.jpg)

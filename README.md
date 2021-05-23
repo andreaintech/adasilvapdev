@@ -104,7 +104,7 @@ WordPress</td></tr>
 
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: [@adasilvapdev](mailto:adasilvapdev@gmail.com)
-- 📝 [Resume](https://adasilvapdev.github.io/curriculum/)
+- 📝 [Resume](https://adasilvapdev.github.io/resume/)
 
 
 ![10](https://github.com/adasilvapdev/adasilvapdev/blob/main/gradient.jpg)

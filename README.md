@@ -116,13 +116,15 @@ WordPress</td></tr>
   <img align="left" alt="Andrea's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 
+<br />
+<br />
+
+- 💬 Ask me about anything, I am happy to help
+- 📫 Write me by email: [@adasilvapdev](mailto:adasilvapdev@gmail.com)
+- 📝 [Resume](https://adasilvapdev.github.io/resume/)
 
 <br />
-- 💬 Ask me about anything, I am happy to help<br />
-- 📫 Write me by email: [@adasilvapdev](mailto:adasilvapdev@gmail.com)<br />
-- 📝 [Resume](https://adasilvapdev.github.io/resume/)<br />
-
-
+<br />
 ![10](https://github.com/adasilvapdev/adasilvapdev/blob/main/gradient.jpg)
 
 

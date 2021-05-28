@@ -89,8 +89,11 @@ WordPress</td></tr>
 - TypeScript
 
 ## What I'm currently reading 📚
-- The TypeScript Handbook | Microsoft
 - Ikigai: The Japanese Secret to a Long and Happy Life | Héctor García
+
+## Books to read 📚
+- The TypeScript Handbook | Microsoft
+- Atomic Design | Brad Frost
 
 <!-- 
 - 🔭 I’m currently working on ....

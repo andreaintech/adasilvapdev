@@ -87,6 +87,8 @@ WordPress</td></tr>
 - Figma
 - UX
 - TypeScript
+- Redux
+- React.js and React Native
 
 ## What I'm currently reading 📚
 - Ikigai: The Japanese Secret to a Long and Happy Life | Héctor García

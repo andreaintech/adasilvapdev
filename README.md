@@ -79,7 +79,7 @@ WordPress</td></tr>
 
 | Language      | Proficiency                                                               |
 | ------------- | ------------------------------------------------------------------------- |
-| English       | B1                                                                        |
+| English       | B2                                                                        |
 | Portuguese    | B2                                                                        |
 | Spanish       | Native language                                                           |
 

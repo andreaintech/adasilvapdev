@@ -59,7 +59,7 @@ I'm very comfortable working as a team with a high sense of responsibility and e
 <tr><th scope='row'>College Degree</th><td>B.S. in Computer Science</td></tr>
 <tr><th scope='row'>Alma Mater</th><td>University of Carabobo | Experimental Faculty of Sciences and Technology</td></tr>
 <tr><th scope='row'>Occupation</th><td>Web & Mobile App Developer</td></tr>
-<tr><th scope='row'>Skills</th><td>HTML, CSS, JavaScript, Python, React Native</td></tr>
+<tr><th scope='row'>Skills</th><td>HTML, CSS, JavaScript, React Native</td></tr>
 <tr><th scope='row'>Stuff I've worked with</th><td>
 HTML, CSS, React Native, React.js, VueJS 2, Angular 6, Angular.js, JavaScript, TypeScript</br>
 Python 3.8, Flask</br>

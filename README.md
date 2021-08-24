@@ -92,7 +92,7 @@ WordPress</td></tr>
 
 ## What I'm currently reading 📚
 - Ikigai: The Japanese Secret to a Long and Happy Life | Héctor García
-- React Native for Mobile Development - Harness the Power of React Native to Create Stunning iOS and Android Applications | Akshat Paul & Abhishek Nalwaya
+- [React Native for Mobile Development - Harness the Power of React Native to Create Stunning iOS and Android Applications | Akshat Paul & Abhishek Nalwaya](https://github.com/adasilvapdev/Book-Notes-React-Native-for-Mobile-Development/blob/main/README.md)
 
 ## Books to read 📚
 - The TypeScript Handbook | Microsoft

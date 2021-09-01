@@ -96,7 +96,7 @@ WordPress</td></tr>
 
 ## Books to read 📚
 - [The TypeScript Handbook | Microsoft](https://github.com/adasilvapdev/Book-Notes-The-TypeScript-Handbook)
-- Atomic Design | Brad Frost
+- [Atomic Design | Brad Frost](https://github.com/adasilvapdev/Book-Notes-Atomic-Design)
 - [You dont know JS | KYLE SIMPSON](https://github.com/adasilvapdev/Book-Notes-You-dont-know-JS) 
 
 <!-- 

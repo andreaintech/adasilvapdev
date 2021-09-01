@@ -16,7 +16,7 @@
 
 <br />
 
-**Hi, I'm [Andrea Da Silva](https://adasilvapdev.github.io/web/) ✌, I am a Web/Mobile App Developer.** 
+**Hi, I'm [Andrea Da Silva](https://adasilvapdev.github.io/web/) ✌, I'm a Web/Mobile App Developer.** 
 
 I was born in Moscow, Russia 🇷🇺 but my nationality is Brazilian 🇧🇷
 and I currently living in Venezuela 📍🇻🇪 😜

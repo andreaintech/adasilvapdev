@@ -61,7 +61,7 @@ I'm very comfortable working as a team with a high sense of responsibility and e
 <tr><th scope='row'>Occupation</th><td>Web & Mobile App Developer</td></tr>
 <tr><th scope='row'>Skills</th><td>HTML, CSS, JavaScript, React Native</td></tr>
 <tr><th scope='row'>Stuff I've worked with</th><td>
-HTML, CSS, React Native, React.js, VueJS 2, Angular 6, Angular.js, JavaScript, TypeScript</br>
+HTML, CSS, React Native, VueJS 2, Angular 6, Angular.js, JavaScript, TypeScript</br>
 Python 3.8, Flask</br>
 PHP 5, Laravel 5.8, CodeIgniter, Slim</br>
 Java 8, Spring Boot, Vaadin 8</br>

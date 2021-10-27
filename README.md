@@ -88,7 +88,10 @@ WordPress</td></tr>
 - UX
 - TypeScript
 - React.js and React Native
-- Redux
+- Mobx state tree
+- Flow language support
+- React Native Testing Library
+- Jest (JavaScript Testing)
 
 ## What I'm currently reading 📚
 - Ikigai: The Japanese Secret to a Long and Happy Life | Héctor García

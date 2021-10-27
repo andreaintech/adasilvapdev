@@ -93,6 +93,12 @@ WordPress</td></tr>
 - React Native Testing Library
 - Jest (JavaScript Testing)
 
+## Courses that I am currently doing 💻
+- [React Native, v2 - Frontend Masters](https://frontendmasters.com/courses/react-native-v2/)
+
+## Courses to do 💻
+- [Intermediate React Native - Frontend Masters](https://frontendmasters.com/workshops/intermediate-react-native/)
+
 ## What I'm currently reading 📚
 - Ikigai: The Japanese Secret to a Long and Happy Life | Héctor García
 - [React Native for Mobile Development - Harness the Power of React Native to Create Stunning iOS and Android Applications | Akshat Paul & Abhishek Nalwaya](https://github.com/adasilvapdev/Book-Notes-React-Native-for-Mobile-Development/blob/main/README.md)

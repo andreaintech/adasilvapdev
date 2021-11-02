@@ -94,7 +94,7 @@ WordPress</td></tr>
 - Jest (JavaScript Testing)
 
 ## Courses that I am currently doing 💻
-- [React Native, v2 - Frontend Masters](https://frontendmasters.com/courses/react-native-v2/)
+- [React Native, v2 - Frontend Masters](https://frontendmasters.com/courses/react-native-v2/) and I'm taking notes, [check it out here](https://github.com/adasilvapdev/React-Native-v2-FrontEnd-Masters-Course-Notes) and on the other hand the practices are [here](https://github.com/adasilvapdev/React-Native-FrontEnd-Masters-Practices)
 
 ## Courses to do 💻
 - [Intermediate React Native - Frontend Masters](https://frontendmasters.com/workshops/intermediate-react-native/)
